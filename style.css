@@ -3,19 +3,19 @@ h1 {
 }
 
 .div1 {
-    width: 500px;
+    width: 800px;
     height: 300px;
     background-color: cornflowerblue;
 }
 
 .div2 {
-    width: 800px;
+    width: 100%;
     height: 300px;
     background-color: blueviolet;
 }
 
 .div3 {
-    width: 300px;
+    width: 800px;
     height: 300px;
     background-color: red;
 }
