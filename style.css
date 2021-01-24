@@ -1,0 +1,21 @@
+h1 {
+    color: darkred
+}
+
+.div1 {
+    width: 100%;
+    height: 300px;
+    background-color: cornflowerblue;
+}
+
+.div2 {
+    width: 100%;
+    height: 300px;
+    background-color: coral;
+}
+
+.div3 {
+    width: 100%;
+    height: 300px;
+    background-color: cornsilk;
+}
